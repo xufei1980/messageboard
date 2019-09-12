@@ -1,6 +1,6 @@
 the Effect is as follows
 
- ![image](https://github.com/xufei1980/baidusearch/blob/master/Baidu_Search_demo.gif)
+ ![image](https://github.com/xufei1980/messageboard/blob/master/Message%20Board.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
